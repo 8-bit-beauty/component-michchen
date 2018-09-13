@@ -1,0 +1,15 @@
+.style_main {
+  font-size: 11px;
+  height: 38px;
+  color: #767676;
+  display: block;
+}
+
+/* .style_breadcrumb:hover{
+  color: #e47911;
+  text-decoration: underline;
+} */
+
+.style_breadcrumb{
+  color: #767676;
+}
